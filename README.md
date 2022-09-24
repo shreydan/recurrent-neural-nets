@@ -1,5 +1,10 @@
 # Recurrent Neural Networks
 
-- [Character RNN](./character-RNN/)
+- Vanilla RNN
 
-- [LSTM with embeddings](./LSTM-with-Embedding/)
+  - [Character RNN](./RNN/character-RNN/)
+
+- LSTM
+
+  - [LSTM with embeddings](./LSTM/lstm-embeddings.ipynb)
+  - [LSTM with embeddings tokenized with byte-pair encoding](./LSTM/bpe-tokenizer-lstm-embeddings.ipynb)
